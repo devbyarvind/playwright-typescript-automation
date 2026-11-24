@@ -1,0 +1,49 @@
+{
+    "baseUrl": "https://demowebshop.tricentis.com/",
+
+    "registration": {
+        "firstName": "Arvindkumar",
+        "lastName": "Guptaaaa",
+        "email": "user_6714630000000000@test.com",
+        "password": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+
+    "login": {
+        "valid": {
+            "email": "user_3714630000000000@test.com",
+            "password": "Test@1234"
+        },
+        "invalid": {
+            "email": "invalid@test.com",
+            "password": "WrongPass123"
+        }
+    },
+
+    "search": {
+        "keyword": "book"
+    },
+
+    "cart": {
+        "productName": "Computing and Internet",
+        "expectedSuccessMessage": "The product has been added to your",
+        "expectedEmptyMessage": "Your Shopping Cart is empty!",
+        "updatedQty": 3
+    },
+
+    "coupon": {
+        "invalidCode": "INVALIDCODE123"
+    },
+
+    "newsletter": {
+        "email": "newsletter@test.com"
+    },
+
+    "checkout": {
+        "country": "United States",
+        "city": "New York",
+        "address": "123 Test Street",
+        "zip": "10001",
+        "phone": "1234567890"
+    }
+}
