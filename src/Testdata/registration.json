@@ -4,15 +4,15 @@
     "registration": {
         "firstName": "Arvindkumar",
         "lastName": "Guptaaaa",
-        "email": "user_6714630000000000@test.com",
-        "password": "Test@1234",
-        "confirmPassword": "Test@1234"
+        "email": "user_7714630000000000@test.com",
+        "password": "Test@12345",
+        "confirmPassword": "Test@12345"
     },
 
     "login": {
         "valid": {
-            "email": "user_3714630000000000@test.com",
-            "password": "Test@1234"
+            "email": "user_7714630000000000@test.com",
+            "password": "Test@12345"
         },
         "invalid": {
             "email": "invalid@test.com",
